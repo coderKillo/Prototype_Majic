@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04b40f873c127b3438d223b3bcdc39e4, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  spellIcon: {fileID: 21300000, guid: 2d089513ae4adfc48a683c362ad9992c, type: 3}
+  spellName: 
+  cooldownTime: 1
+  spellDescription: 
+  spellCastFX: {fileID: 2325755917009562660, guid: 1fbda12be6ec8b44586f7cd413f7d3f2, type: 3}
+  spellWarmUpFX: {fileID: 6343570376579573630, guid: befcc0b671650754e8068324f21ca1bb, type: 3}
+  spellImpactFX: {fileID: 7710993062506542675, guid: 70a528d98f673a74294934d37050f7c3, type: 3}
+  spellAnimation: CastAnimation1
+  castTime: 1
+  projectileSpeed: 40
+  projectileArc: 3
