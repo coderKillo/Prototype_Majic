@@ -610,7 +610,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Mesh, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: 
+      m_SerializableObject: '{"obj":{"fileID":-7101366191010584746,"guid":"86961bd16f087d74fa48267abfbb4ca3","type":3}}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -5714,8 +5714,6 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614885}
   - {fileID: 8926484042661614886}
-  - {fileID: 0}
-  - {fileID: 0}
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
   m_UISuperCollapsed: 0
@@ -22502,7 +22500,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Mesh, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":-7101366191010584746,"guid":"870476fd11fa51a4bba7cd51c7934209","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":-7101366191010584746,"guid":"86961bd16f087d74fa48267abfbb4ca3","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: o
